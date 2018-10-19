@@ -1,0 +1,24 @@
+{
+  "name": "cielo-front",
+  "version": "0.0.1",
+  "description": "Projeto desafio da Cielo",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 3000 -c-1 -o"
+  },
+  "dependencies": {},
+  "author": "Otavio",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "0.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OtavioSource/desafio-cielo-front"
+  },
+  "homepage": "https://github.com/OtavioSource/desafio-cielo-front#readme",
+  "engines": {
+    "node": "6.11.0",
+    "npm": "3.10.10"
+  }
+}
